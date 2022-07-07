@@ -12,7 +12,7 @@ Para jogar, verifique os seguintes requisitos:
 
 ## 🚀 Instalando o Trivia Project
 
-Para instalar o projeto, siga estas etapas:
+Para instalar o projeto, clone o repositório e siga estas etapas:
 
 Instalar dependências:
 
@@ -25,6 +25,8 @@ Iniciar projeto:
 ```
 npm start
 ```
+
+Obs.: Caso não queira realizar os passos acima, você pode acessar a aplicação <a href="https://trivia-project-pi.vercel.app/" >aqui</a>
 
 ## ☕ Usando Trivia Project
 
