@@ -44,7 +44,7 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 
 ## 🤝 Colaboradores
 
-Agradecimento às seguintes pessoas que contribuíram para este projeto; foi um prazer codar com voc
+Agradecimento às seguintes pessoas que contribuíram para este projeto; foi um prazer codar com vocês!
 
 <table>
   <tr>
