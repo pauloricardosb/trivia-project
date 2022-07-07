@@ -1,13 +1,14 @@
 # Trivia Project
 
-<img src="trivia-example.png" alt="exemplo imagem">
+<img src="trivia-example.jpg" alt="exemplo imagem">
 
 > O projeto consiste em uma aplicação de perguntas e repostas utilizando React + Redux.
 
 ## 💻 Pré-requisitos
 
 Para jogar, verifique os seguintes requisitos:
-* Você instalou a versão mais recente de `NodeJs e NPM`
+
+- Você instalou a versão mais recente de `NodeJs e NPM`
 
 ## 🚀 Instalando o Trivia Project
 
@@ -18,6 +19,7 @@ Instalar dependências:
 ```
 npm i
 ```
+
 Iniciar projeto:
 
 ```
@@ -78,6 +80,5 @@ Agradecimento às seguintes pessoas que contribuíram para este projeto; foi um 
     </td>
   </tr>
 </table>
-
 
 [⬆ Voltar ao topo](#trivia-project)<br>
