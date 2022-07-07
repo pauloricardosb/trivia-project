@@ -1,0 +1,51 @@
+#question-category {
+  margin-top: -50px;
+}
+
+#question-answers {
+  margin-top: 100px;
+}
+
+#answer-btn {
+  margin: 3px;
+  padding: 9px;
+}
+
+#next-btn {
+  margin-right: 5%;
+  margin-top: 5%;
+}
+
+#avatar-div {
+  margin-top: 5%;
+  margin-left: 5%;
+}
+
+#avatar {
+  border-radius: 50px;
+  margin-right: 15px;
+}
+
+#timer {
+  margin-top: 5%;
+  font-size: xx-large;
+}
+
+#player-score { 
+  margin-left: 11%;
+  margin-top: 13%;
+}
+
+#player-name {
+  margin-left: 10px;
+}
+
+#score {
+  font-size: x-large;
+}
+
+body {
+  color: black;
+  background-color: #8ec5fc;
+  background-image: linear-gradient(62deg, #8ec5fc 0%, #e0c3fc 100%);
+}

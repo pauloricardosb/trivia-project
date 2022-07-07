@@ -1,0 +1,21 @@
+#ranking-tile {
+  margin-top: 5%;
+}
+
+#home-btn {
+  margin-right: 5%;
+  margin-top: 5%;
+}
+
+#list {
+  width: 500px;
+  margin-bottom: 3%;
+}
+
+#player-pic {
+  border-radius: 50px;
+}
+
+#score-player {
+  margin-right: 20px;
+}

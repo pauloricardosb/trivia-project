@@ -1,0 +1,32 @@
+#feedback-avatar {
+  margin-top: 10%;
+  border-radius: 50px;
+}
+
+#player-name {
+font-size: x-large;
+margin-top: 18%;
+}
+
+#score {
+  margin-left: 40%;
+  margin-top: 5%;
+}
+
+#assertions {
+  margin-right: 40%;
+  margin-top: 5%;
+  font-size: x-large;
+}
+
+#feedback {
+  margin-top: 2%;
+}
+
+#btn-div {
+  margin-bottom: 5%;
+}
+
+#play-again {
+  margin-right: 50px;
+}
