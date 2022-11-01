@@ -2,7 +2,7 @@
 
 <img src="trivia-example.jpg" alt="exemplo imagem">
 
-> O projeto consiste em uma aplicação de perguntas e repostas utilizando React + Redux.
+> O projeto consiste em uma aplicação de perguntas e respostas utilizando React + Redux.
 
 ## 💻 Pré-requisitos
 
